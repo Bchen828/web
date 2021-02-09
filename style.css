@@ -5,7 +5,8 @@ body {
 * {
     text-align: center;
 }
-h2 {
+h3 {
+    font: italic;
     text-align: left;
 }
 p {
