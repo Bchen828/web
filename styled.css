@@ -1,0 +1,8 @@
+    body { 
+      font-family: courier ;
+      background-color: grey ;
+    }
+    p {
+      font-color: black;
+      border-style: solid;
+    }
