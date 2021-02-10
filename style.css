@@ -6,9 +6,9 @@ body {
 * {
     text-align: center;
 }
-h4 {
-    text-align:left;
+a { 
     font-color: DC143C ;
+    text-align:left;
 }
 h3 {
     font-style: italic;
