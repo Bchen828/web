@@ -8,7 +8,9 @@ body {
 }
 a { 
     font-color: DC143C ;
-    text-align:left;
+}
+h4 {
+     text-align:left;
 }
 h3 {
     font-style: italic;
