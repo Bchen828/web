@@ -1,10 +1,14 @@
 body { 
     font-family: Sans-Serif ;
     font-variant: small-caps;
-    background-color: BFFFF1 ;
+    background-color: 99966 ;
     }
 * {
     text-align: center;
+}
+h4 {
+    text-align:left;
+    font-color: ff0000;
 }
 h3 {
     font-style: italic;
