@@ -16,7 +16,6 @@ h3 {
 }
 p {
     font-color: black;
-    border-style: solid;
     border-color: D2691E;
-    border-style: dashed double none;
+    border-style: dashed solid;
     }
