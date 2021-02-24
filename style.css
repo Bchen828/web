@@ -1,14 +1,14 @@
 body { 
     font-family: Sans-Serif ;
     font-variant: small-caps;
-    background-color: FFE4C4 ;
+    background-color: #FFE4C4 ;
     }
 * {
     text-align: center;
 }
 
 a { 
-    font-color: DC143C ;
+    font-color: #DC143C ;
 }
 h4 {
      text-align:left;
@@ -21,6 +21,6 @@ h3 {
 
 p {
     font-color: black;
-    border-color: D2691E;
+    border-color: #D2691E;
     border-style: dashed solid;
     }
