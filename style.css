@@ -6,16 +6,19 @@ body {
 * {
     text-align: center;
 }
+
 a { 
     font-color: DC143C ;
 }
 h4 {
      text-align:left;
 }
+
 h3 {
     font-style: italic;
     text-align: left;
 }
+
 p {
     font-color: black;
     border-color: D2691E;
