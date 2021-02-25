@@ -10,7 +10,9 @@
   width: 400px;
 }
 .row {
-  display: flex;
+  display: flex;  
+  justify-content: space-evenly;
+  flex-direction: row;
 }
 .yeehaw {
   flex: 25%;
