@@ -4,6 +4,11 @@
   color: white;
   font-family: "Lucida Console", "Courier New", monospace;
 }
+.img1 {
+  float: right; 
+  margin: 0px 0px 15px 15px;
+  width: 100px;
+}
 body {
   color: white;
 }
