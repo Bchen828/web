@@ -4,31 +4,47 @@
   color: white;
   font-family: "Lucida Console", "Courier New", monospace;
 }
+
 .img0 {
   float: right; 
   margin: 0px 5px 5px 5px;
   width: 200px;
 }
+
 .img1 {
   float: right; 
   margin: 0px 5px 5px 5px;
   width: 400px;
 }
+
 .row {
   display: flex;  
   justify-content: space-evenly;
 }
 .yeehaw {
   float:left;
-  width: 25%;
+  width: 50%;
   padding: 5px;
 }
+
+.row2 {
+  display: flex;  
+  justify-content: space-evenly;
+}
+.yeehaw2 {
+  float:left;
+  width: 50%;
+  padding: 5px;
+}
+
 .nextto {
   text-align: left;
 }
+
 body {
   color: white;
 }
+
 h1 {
   font-size: 50px;
   padding: 40px;
